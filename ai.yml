@@ -1,6 +1,0 @@
-playtheorygames/ai-code-buddies@v1.0.0
-openai_api_key: ${{ secrets.OPENAI_API_KEY }}
-      source_file_extensions: ".h,.cpp,.c"
-      exclude_paths: "_documentation/,_idea_templates/"
-      github_token: ${{ github.token }}
-      prompts: >-
